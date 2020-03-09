@@ -1,0 +1,2 @@
+rootProject.name='ineedserv'
+include ':app'
